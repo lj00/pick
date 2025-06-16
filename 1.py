@@ -1,4 +1,4 @@
 import os
 
-os.environ.get("test1", "hhh")
+os.environ.get("test2", "hhh")
 print("OK")
