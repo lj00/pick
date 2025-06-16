@@ -1,5 +1,5 @@
 import os
 
-os.environ.get("test2", "")
-print("1")
+os.environ.get("test2", "hhh")
+print("OK")
 print(2)
