@@ -1,3 +1,3 @@
 import os
 
-os.environ.get("test", "")
+os.environ.get("test", "hhh")
